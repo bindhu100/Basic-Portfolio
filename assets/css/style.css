@@ -84,12 +84,14 @@ header{
     text-align: right;
     color: #dddddd;
     font-weight: normal;
+    margin-left: 23%;
+
 }
 
 .nav ul li  {
     display: inline-block;
     padding-left: 1em;
-    margin-left: 1em;
+    
 }
 
 
